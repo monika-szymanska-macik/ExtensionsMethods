@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethods.Test\\ExtensionMethods.Test\\ExtensionMethods.Test.csproj": {}
+    "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethonds.Library\\ExtensionMethonds.Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethods.Test\\ExtensionMethods.Test\\ExtensionMethods.Test.csproj": {
+    "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethonds.Library\\ExtensionMethonds.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethods.Test\\ExtensionMethods.Test\\ExtensionMethods.Test.csproj",
-        "projectName": "ExtensionMethods.Tests",
-        "projectPath": "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethods.Test\\ExtensionMethods.Test\\ExtensionMethods.Test.csproj",
+        "projectUniqueName": "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethonds.Library\\ExtensionMethonds.Library.csproj",
+        "projectName": "ExtensionMethonds.Library",
+        "projectPath": "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethonds.Library\\ExtensionMethonds.Library.csproj",
         "packagesPath": "C:\\Users\\monik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethods.Test\\ExtensionMethods.Test\\obj\\",
+        "outputPath": "C:\\Users\\monik\\source\\repos\\ExtensionsMethods\\ExtensionMethonds.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,17 +40,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
+            "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[16.5.0, )"
+              "version": "[5.0.0, )"
             },
-            "NUnit": {
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
               "target": "Package",
-              "version": "[3.12.0, )"
+              "version": "[5.0.0, )"
             },
-            "NUnit3TestAdapter": {
+            "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[3.16.1, )"
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

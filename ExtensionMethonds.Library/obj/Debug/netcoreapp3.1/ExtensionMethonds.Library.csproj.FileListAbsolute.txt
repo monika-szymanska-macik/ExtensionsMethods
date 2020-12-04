@@ -1,0 +1,9 @@
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\bin\Debug\netcoreapp3.1\ExtensionMethonds.Library.deps.json
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\bin\Debug\netcoreapp3.1\ExtensionMethonds.Library.dll
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\bin\Debug\netcoreapp3.1\ExtensionMethonds.Library.pdb
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\obj\Debug\netcoreapp3.1\ExtensionMethonds.Library.csprojAssemblyReference.cache
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\obj\Debug\netcoreapp3.1\ExtensionMethonds.Library.AssemblyInfoInputs.cache
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\obj\Debug\netcoreapp3.1\ExtensionMethonds.Library.AssemblyInfo.cs
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\obj\Debug\netcoreapp3.1\ExtensionMethonds.Library.csproj.CoreCompileInputs.cache
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\obj\Debug\netcoreapp3.1\ExtensionMethonds.Library.dll
+C:\Users\monik\source\repos\ExtensionsMethods\ExtensionMethonds.Library\obj\Debug\netcoreapp3.1\ExtensionMethonds.Library.pdb
